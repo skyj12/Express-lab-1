@@ -2,7 +2,7 @@
   "name": "expresslab1",
   "version": "1.0.0",
   "description": "",
-  "main": "cart-item.js",
+  "main": "cart-items.js",
   "dependencies": {
     "express": "^4.16.4",
     "gulp": "^3.9.1",
@@ -11,8 +11,16 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyj12/Express-lab-1.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyj12/Express-lab-1/issues"
+  },
+  "homepage": "https://github.com/skyj12/Express-lab-1#readme"
 }
