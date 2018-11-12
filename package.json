@@ -1,0 +1,18 @@
+{
+  "name": "expresslab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cart-item.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "gulp": "^3.9.1",
+    "nodemon": "^1.18.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
